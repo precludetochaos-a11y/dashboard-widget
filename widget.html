@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Dashboard">
+<title>Dashboard Widget</title>
+<style>
+  :root{--bg:#0f1115;--card:#171a21;--line:#262b36;--ink:#e8eaed;--dim:#9aa4b2;--accent:#ffcf4a;--red:#e5534b;--grn:#7bd88f}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--ink);
+    font:14px/1.5 -apple-system,"Segoe UI",Roboto,system-ui,sans-serif;
+    padding:.85rem;width:360px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+        padding:.8rem 1rem;margin-bottom:.65rem}
+  .card:last-of-type{margin-bottom:0}
+  h2{font-size:.7rem;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);margin-bottom:.4rem}
+  .big{font-size:1.9rem;font-weight:800;letter-spacing:-.02em}
+  .sub{color:var(--dim);font-size:.78rem;margin-top:.1rem}
+  ul{list-style:none}
+  li{display:flex;gap:.5rem;align-items:flex-start;padding:.3rem 0;border-top:1px solid var(--line)}
+  li:first-child{border-top:none}
+  .dot{width:9px;height:9px;border-radius:50%;margin-top:.38rem;flex:none}
+  .nm{font-weight:600;font-size:.88rem}
+  .station{color:var(--dim);font-size:.74rem}
+  .pill{font-size:.6rem;font-weight:700;color:#0f1115;background:var(--grn);
+        border-radius:999px;padding:.04rem .4rem;margin-left:.3rem;vertical-align:middle}
+  .sched-row{padding:.3rem 0;border-top:1px solid var(--line);display:grid;grid-template-columns:auto 1fr;gap:.5rem;align-items:start}
+  .sched-row:first-child{border-top:none}
+  .sched-time{color:var(--dim);font-size:.74rem;white-space:nowrap;padding-top:.05rem}
+  .sched-name{font-weight:700;font-size:.84rem}
+  .sched-title{font-size:.8rem;color:var(--accent)}
+  .sched-lesson{font-size:.77rem;margin-top:.1rem}
+  .sched-hw-item{padding:.15rem 0;font-size:.77rem;display:grid;grid-template-columns:auto 1fr;gap:.35rem;border-top:1px solid var(--line)}
+  .sched-hw-item:first-child{border-top:none}
+  .sched-hw-cls{font-weight:700;font-size:.72rem;color:var(--dim);white-space:nowrap}
+  .assess{color:var(--red);font-size:.77rem;margin-top:.1rem}
+  .stale{color:var(--dim);font-size:.68rem;font-style:italic;margin-top:.35rem}
+  .msg{color:var(--dim);font-size:.84rem;padding:.15rem 0}
+  .err{color:var(--red);font-size:.82rem}
+  .updated{color:var(--dim);font-size:.68rem;text-align:right;margin-top:.5rem}
+</style></head>
+<body>
+
+<div class="card">
+  <h2>Today</h2>
+  <div class="big" id="clock">—</div>
+  <div class="sub" id="date">—</div>
+</div>
+
+<div class="card">
+  <h2>Lunch · Entrées</h2>
+  <ul id="lunch"><li><span class="msg">Loading…</span></li></ul>
+</div>
+
+<div class="card">
+  <h2>Today · Lessons</h2>
+  <div id="sched-lessons"><div class="msg">Open the Chrome dashboard tab once to sync.</div></div>
+  <div class="stale" id="stale"></div>
+</div>
+
+<div class="card">
+  <h2 style="color:var(--grn)">Today · Homework</h2>
+  <div id="sched-hw"><div class="msg">—</div></div>
+</div>
+
+<div class="updated" id="updated"></div>
+
+<script src="widget.js"></script>
+</body></html>
