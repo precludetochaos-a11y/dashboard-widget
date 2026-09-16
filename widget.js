@@ -29,9 +29,8 @@ function renderLunch(items,fetched){
 async function fetchLunchDirect(){
   try{
     const sageUrl="https://www.sagedining.com/microsites/getMenuItems?menuId="+MENU_ID+"&date="+fmt(new Date())+"&meal=Lunch&mode=";
-    const proxyUrl="https://api.allorigins.win/get?url="+encodeURIComponent(sageUrl);
-    const r=await(await fetch(proxyUrl)).json();
-    const j=JSON.parse(r.contents);
+    const proxyUrl="https://corsproxy.io/?"+encodeURIComponent(sageUrl);
+    const j=await(await fetch(proxyUrl)).json();
     renderLunch(j["Entr\u00e9es"]||j["Entrees"]||[],true);
   }catch(e){renderLunch(null,true);}
 }
