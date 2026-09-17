@@ -1,0 +1,522 @@
+[
+  {
+    "date": "09/14/2026",
+    "dow": "Monday",
+    "classes": [
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "8:00 AM",
+        "end": "8:45 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 1. Unit 3 Systems",
+        "lesson": [
+          "Introduction to Matrices"
+        ],
+        "homework": [
+          "MML HW 3.3"
+        ],
+        "assess": [
+          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score"
+        ]
+      },
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "9:30 AM",
+        "end": "10:15 AM",
+        "color": "#A4C2F4",
+        "title": "The Crucible - Act 1 ",
+        "lesson": [
+          "Students will complete Act 1.",
+          "Students will complete a quick write paragraph on conflict in Act 1."
+        ],
+        "homework": [
+          "Complete the quick write.",
+          "Prepare for Harkness in Meeting 2."
+        ],
+        "assess": []
+      },
+      {
+        "name": "4th Hour U.S. History",
+        "start": "10:45 AM",
+        "end": "11:30 AM",
+        "color": "#990000",
+        "title": "Meeting 1",
+        "lesson": [
+          "Road to Independence Harkness"
+        ],
+        "homework": [
+          "Harkness prep for Meeting 2 of NEXT WEEK",
+          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+        ],
+        "assess": []
+      },
+      {
+        "name": "5th Hour - Bus/PerFi",
+        "start": "11:30 AM",
+        "end": "12:15 PM",
+        "color": "#FF0000",
+        "title": "Demand and Marginal Utility",
+        "lesson": [
+          "1. Students will learn about demand and marginal utility.",
+          "2. Students will participate in the Song Replay Experiment."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "Lunch",
+        "start": "12:15 PM",
+        "end": "1:00 PM",
+        "color": "#D7EECD",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "1:00 PM",
+        "end": "1:45 PM",
+        "color": "#999999",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "7th Hour Ap Art",
+        "start": "1:45 PM",
+        "end": "2:30 PM",
+        "color": "#F36666",
+        "title": "Observation Skills (Contour & Value)",
+        "lesson": [
+          "Complete observational object drawing",
+          "Complete negative space sketch",
+          "Photograph sketchbook drawings & upload to GC"
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "2:30 PM",
+        "end": "3:15 PM",
+        "color": "#FF8400",
+        "title": "Review for Test/Cheeto Lab Prep",
+        "lesson": [
+          "-Read over procedure for Cheeto Lab",
+          "-Work on Study Guide"
+        ],
+        "homework": [
+          "-Study for test (M4)",
+          "-Complete Pre-Lab Qs (1-4)"
+        ],
+        "assess": []
+      }
+    ]
+  },
+  {
+    "date": "09/15/2026",
+    "dow": "Tuesday",
+    "classes": [
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "8:00 AM",
+        "end": "9:00 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 2. Unit 3 Systems",
+        "lesson": [
+          "Introduction to Matrices. (notes day 2)"
+        ],
+        "homework": [
+          "MML HW 3.4"
+        ],
+        "assess": [
+          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score. Due Thursday 8am"
+        ]
+      },
+      {
+        "name": "Advisory",
+        "start": "10:00 AM",
+        "end": "10:30 AM",
+        "color": "#F9CB9C",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "10:30 AM",
+        "end": "11:30 AM",
+        "color": "#A4C2F4",
+        "title": "Harkness on Act 1 ",
+        "lesson": [
+          "ACT Prep",
+          "Students will Harkness on Act 1 with a specific focus on conflict.",
+          "Students will complete a blame chart for Act 1."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "5th Hour - Bus/PerFi",
+        "start": "11:30 AM",
+        "end": "12:30 PM",
+        "color": "#FF0000",
+        "title": "Factors Effecting Demand",
+        "lesson": [
+          "1. Students will learn about causes to shifts in the demand curve. The lesson will include consumer income, substitutes, and complements."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "Lunch",
+        "start": "12:30 PM",
+        "end": "1:15 PM",
+        "color": "#D7EECD",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "1:15 PM",
+        "end": "2:15 PM",
+        "color": "#999999",
+        "title": "Meeting 2",
+        "lesson": [
+          "Dealer's Choice:",
+          "Students create a list of Theological and Ethical topics they would like to discuss with Mr. Whitfield."
+        ],
+        "homework": [
+          "None"
+        ],
+        "assess": []
+      },
+      {
+        "name": "7th Hour Ap Art",
+        "start": "2:15 PM",
+        "end": "3:15 PM",
+        "color": "#F36666",
+        "title": "Observation Skills (Contour & Value)",
+        "lesson": [
+          "Complete observational object drawing",
+          "Complete negative space sketch",
+          "Photograph sketchbook drawings & upload to GC"
+        ],
+        "homework": [],
+        "assess": []
+      }
+    ]
+  },
+  {
+    "date": "09/16/2026",
+    "dow": "Wednesday",
+    "classes": [
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "9:00 AM",
+        "end": "10:00 AM",
+        "color": "#A4C2F4",
+        "title": "The Crucible Act 2 ",
+        "lesson": [
+          "Grammar Practice",
+          "Students will begin Act 2 of The Crucible",
+          "Googe Lit Trip"
+        ],
+        "homework": [
+          "Complete Reading for Harkness Prep"
+        ],
+        "assess": []
+      },
+      {
+        "name": "Chapel",
+        "start": "10:00 AM",
+        "end": "10:30 AM",
+        "color": "#F9CB9C",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "4th Hour U.S. History",
+        "start": "10:30 AM",
+        "end": "11:30 AM",
+        "color": "#990000",
+        "title": "Meeting 2",
+        "lesson": [
+          "Recap Harkness from previous class",
+          "Road to Revolution Gallery Walk",
+          "Gallery Walk Debrief"
+        ],
+        "homework": [
+          "Harkness prep for Meeting 2 of NEXT WEEK",
+          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+        ],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "11:30 AM",
+        "end": "12:30 PM",
+        "color": "#999999",
+        "title": "Meeting 3",
+        "lesson": [
+          "Four Virtues & OT Character Study Project"
+        ],
+        "homework": [
+          "None"
+        ],
+        "assess": []
+      },
+      {
+        "name": "Lunch",
+        "start": "12:30 PM",
+        "end": "1:15 PM",
+        "color": "#D7EECD",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "7th Hour Ap Art",
+        "start": "1:15 PM",
+        "end": "2:15 PM",
+        "color": "#F36666",
+        "title": "Observation Skills (Contour & Value)",
+        "lesson": [
+          "Complete observational object drawing",
+          "Complete negative space sketch",
+          "Photograph sketchbook drawings & upload to GC"
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "2:15 PM",
+        "end": "3:15 PM",
+        "color": "#FF8400",
+        "title": "Energy of a Cheeto Lab",
+        "lesson": [
+          "Energy of a Cheeto Lab"
+        ],
+        "homework": [
+          "Complete Lab Packet"
+        ],
+        "assess": []
+      }
+    ]
+  },
+  {
+    "date": "09/17/2026",
+    "dow": "Thursday",
+    "classes": [
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "8:00 AM",
+        "end": "9:00 AM",
+        "color": "#A4C2F4",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "4th Hour U.S. History",
+        "start": "9:00 AM",
+        "end": "10:00 AM",
+        "color": "#990000",
+        "title": "Meeting 3",
+        "lesson": [
+          "Review Road to Revolution Gallery Walk from previous class",
+          "Mercantilism Simulation",
+          "Complete debrief afterwards"
+        ],
+        "homework": [
+          "Harkness prep for Meeting 2 of NEXT WEEK",
+          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+        ],
+        "assess": []
+      },
+      {
+        "name": "Advisory",
+        "start": "10:00 AM",
+        "end": "10:30 AM",
+        "color": "#F9CB9C",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "10:30 AM",
+        "end": "11:30 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 3 Unit 3 Systems",
+        "lesson": [
+          "Operations with Matrices. (notes day 3)"
+        ],
+        "homework": [
+          "Test Review 3.1 - 3.4"
+        ],
+        "assess": [
+          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score. Due Thursday  8 am",
+          "Work MML 3.1 - 3.4 test review. Due Friday  at 8 am"
+        ]
+      },
+      {
+        "name": "7th Hour Ap Art",
+        "start": "11:30 AM",
+        "end": "12:30 PM",
+        "color": "#F36666",
+        "title": "Observation Skills (Contour & Value)",
+        "lesson": [
+          "Complete observational object drawing",
+          "Complete negative space sketch",
+          "Photograph sketchbook drawings & upload to GC",
+          "ALL DUE AT THE END OF CLASS"
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "Lunch",
+        "start": "12:30 PM",
+        "end": "1:15 PM",
+        "color": "#D7EECD",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "1:15 PM",
+        "end": "2:15 PM",
+        "color": "#FF8400",
+        "title": "",
+        "lesson": [
+          "-Go over Study Guide",
+          "-Test Review Game"
+        ],
+        "homework": [
+          "Study for test M4!"
+        ],
+        "assess": []
+      },
+      {
+        "name": "5th Hour - Bus/PerFi",
+        "start": "2:15 PM",
+        "end": "3:15 PM",
+        "color": "#FF0000",
+        "title": "Demand Elasticity",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      }
+    ]
+  },
+  {
+    "date": "09/18/2026",
+    "dow": "Friday",
+    "classes": [
+      {
+        "name": "4th Hour U.S. History",
+        "start": "8:00 AM",
+        "end": "9:00 AM",
+        "color": "#990000",
+        "title": "Meeting 4",
+        "lesson": [
+          "America the Story of Us: Revolution",
+          "Fill out viewing guide during movie"
+        ],
+        "homework": [
+          "Harkness prep for Meeting 2 of NEXT WEEK",
+          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+        ],
+        "assess": []
+      },
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "9:00 AM",
+        "end": "10:00 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 4 Unit 3 Systems",
+        "lesson": [
+          "Operations with Matrices Test"
+        ],
+        "homework": [
+          "Test Review 3.1 - 3.4"
+        ],
+        "assess": [
+          "Test 3"
+        ]
+      },
+      {
+        "name": "Break",
+        "start": "10:00 AM",
+        "end": "10:30 AM",
+        "color": "#F9CB9C",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "11:30 AM",
+        "end": "12:30 PM",
+        "color": "#FF8400",
+        "title": "TEST",
+        "lesson": [
+          "Chapter 2 Test"
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "Lunch",
+        "start": "12:30 PM",
+        "end": "1:15 PM",
+        "color": "#D7EECD",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "5th Hour - Bus/PerFi",
+        "start": "1:15 PM",
+        "end": "2:15 PM",
+        "color": "#FF0000",
+        "title": "Demand ",
+        "lesson": [
+          "1. Students will complete an in-class assignment on Demand."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "2:15 PM",
+        "end": "3:15 PM",
+        "color": "#999999",
+        "title": "Meeting 4",
+        "lesson": [
+          "Four Virtues & OT Character Study Project"
+        ],
+        "homework": [
+          "None"
+        ],
+        "assess": []
+      }
+    ]
+  }
+]
