@@ -1,0 +1,93 @@
+[
+  {
+    "id": "511936937",
+    "menuId": "138581",
+    "recipeId": "224959",
+    "recipeType": "Recipe",
+    "day": "4",
+    "week": "6",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      },
+      {
+        "id": "15",
+        "name": "Free Style™",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®, Free Style™",
+    "card": "0",
+    "name": "Grilled Greek Chicken Thighs",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "510675510",
+    "menuId": "138581",
+    "recipeId": "34432",
+    "recipeType": "Recipe",
+    "day": "4",
+    "week": "6",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "13",
+        "name": "Vegitas®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation13.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Vegitas®",
+    "card": "0",
+    "name": "Balsamic-Grilled Vegetable Couscous",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten"
+      ],
+      "lmAllergenCodes": [
+        "Su"
+      ],
+      "lmAllergenNames": [
+        "Sulfites"
+      ],
+      "lifestyleCodes": [
+        "V+"
+      ],
+      "lifestyleNames": [
+        "Vegan"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Starch"
+    },
+    "hasDetails": true
+  }
+]
