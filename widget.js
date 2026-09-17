@@ -62,6 +62,20 @@ function renderSchedule(days){
   hb.innerHTML=hr||'<div class="msg">Nothing due today.</div>';
 }
 
+/* fetch schedule.json from GitHub Pages */
+async function fetchScheduleFromGitHub(){
+  try{
+    const url="https://precludetochaos-a11y.github.io/dashboard-widget/schedule.json?t="+Date.now();
+    const days=await(await fetch(url)).json();
+    renderSchedule(days);
+    document.getElementById("stale").textContent="Schedule synced from GitHub";
+  }catch(e){
+    document.getElementById("sched-lessons").innerHTML='<div class="msg">Open Chrome dashboard tab to sync schedule.</div>';
+    document.getElementById("sched-hw").innerHTML='<div class="msg">\u2014</div>';
+    document.getElementById("stale").textContent="";
+  }
+}
+
 /* main loader */
 function loadAll(){
   if(typeof chrome!=="undefined"&&chrome.storage){
@@ -78,9 +92,7 @@ function loadAll(){
     });
   }else{
     fetchLunchDirect();
-    document.getElementById("sched-lessons").innerHTML='<div class="msg">Schedule only available in Chrome extension.</div>';
-    document.getElementById("sched-hw").innerHTML='<div class="msg">\u2014</div>';
-    document.getElementById("stale").textContent="";
+    fetchScheduleFromGitHub();
     document.getElementById("updated").textContent=
       "updated "+new Date().toLocaleTimeString([],{hour:"numeric",minute:"2-digit"});
   }
