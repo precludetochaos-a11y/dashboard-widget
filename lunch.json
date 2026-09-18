@@ -1,18 +1,13 @@
 [
   {
-    "id": "511936937",
+    "id": "508690693",
     "menuId": "138581",
-    "recipeId": "224959",
+    "recipeId": "121282",
     "recipeType": "Recipe",
-    "day": "4",
+    "day": "5",
     "week": "6",
     "meal": "Lunch",
     "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      },
       {
         "id": "15",
         "name": "Free Style™",
@@ -21,12 +16,12 @@
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®, Free Style™",
+    "displayStation": "Free Style™",
     "card": "0",
-    "name": "Grilled Greek Chicken Thighs",
+    "name": "House-Smoked Turkey Breast",
     "desc": "",
     "price": 0,
-    "dot": "Yellow",
+    "dot": "Red",
     "allergens": {
       "allergenCodes": [],
       "allergenNames": [],
@@ -36,16 +31,108 @@
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508690690",
+    "menuId": "138581",
+    "recipeId": "222008",
+    "recipeType": "Recipe",
+    "day": "5",
+    "week": "6",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "0",
+    "name": "Seasoned Scrambled Eggs",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "E"
+      ],
+      "allergenNames": [
+        "Egg"
+      ],
+      "lmAllergenCodes": [
+        "Mi"
+      ],
+      "lmAllergenNames": [
+        "Milk"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508690699",
+    "menuId": "138581",
+    "recipeId": "201145",
+    "recipeType": "Recipe",
+    "day": "5",
+    "week": "6",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "1",
+    "name": "Breakfast Sausage Links",
+    "desc": "",
+    "price": 0,
+    "dot": "Red",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [
+        "Mi",
+        "So",
+        "Mu"
+      ],
+      "lmAllergenNames": [
+        "Milk",
+        "Soy",
+        "Mustard"
+      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
       "performanceSpotlight": ""
     },
     "hasDetails": true
   },
   {
-    "id": "510675510",
+    "id": "510675472",
     "menuId": "138581",
-    "recipeId": "34432",
+    "recipeId": "120372",
     "recipeType": "Recipe",
-    "day": "4",
+    "day": "5",
     "week": "6",
     "meal": "Lunch",
     "stations": [
@@ -59,34 +146,32 @@
     "dailyCategory": "NONE",
     "displayStation": "Vegitas®",
     "card": "0",
-    "name": "Balsamic-Grilled Vegetable Couscous",
+    "name": "Scrambled Eggs with Mushrooms, Onions, and Peppers",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
-        "W",
-        "G"
+        "E"
       ],
       "allergenNames": [
-        "Wheat",
-        "Gluten"
+        "Egg"
       ],
       "lmAllergenCodes": [
-        "Su"
+        "Mi"
       ],
       "lmAllergenNames": [
-        "Sulfites"
+        "Milk"
       ],
       "lifestyleCodes": [
-        "V+"
+        "V"
       ],
       "lifestyleNames": [
-        "Vegan"
+        "Vegetarian"
       ],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
-      "performanceSpotlight": "Starch"
+      "performanceSpotlight": "Protein"
     },
     "hasDetails": true
   }
