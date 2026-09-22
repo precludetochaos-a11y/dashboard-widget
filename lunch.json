@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "508691058",
+    "menuId": "138581",
+    "recipeId": "221925",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "7",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "15",
+        "name": "Free Style™",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Free Style™",
+    "card": "0",
+    "name": "Jamaican-Style Braised Chicken",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508691055",
+    "menuId": "138581",
+    "recipeId": "92832",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "7",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": 19,
+        "name": "Uncharted",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Uncharted",
+    "card": "0",
+    "name": "Grilled Jerk Chicken Thighs",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [
+        "Se",
+        "Mu",
+        "Su"
+      ],
+      "lmAllergenNames": [
+        "Sesame",
+        "Mustard",
+        "Sulfites"
+      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "510675748",
+    "menuId": "138581",
+    "recipeId": "93302",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "7",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "13",
+        "name": "Vegitas®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation13.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Vegitas®",
+    "card": "0",
+    "name": "Jamaican Jerk Tofu with Pepper and Onion",
+    "desc": "",
+    "price": 0,
+    "dot": "Green",
+    "allergens": {
+      "allergenCodes": [
+        "So"
+      ],
+      "allergenNames": [
+        "Soy"
+      ],
+      "lmAllergenCodes": [
+        "Se",
+        "Mu",
+        "Su"
+      ],
+      "lmAllergenNames": [
+        "Sesame",
+        "Mustard",
+        "Sulfites"
+      ],
+      "lifestyleCodes": [
+        "V+"
+      ],
+      "lifestyleNames": [
+        "Vegan"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  }
+]
