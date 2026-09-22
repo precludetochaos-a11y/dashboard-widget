@@ -174,8 +174,12 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#F36666",
-        "title": "",
-        "lesson": [],
+        "title": "Introduction to Faceless Self Portraits",
+        "lesson": [
+          "Introduction slide show & class discussions",
+          "Complete Personal Symbol Inventory Worksheet",
+          "Begin sketchbook ideas"
+        ],
         "homework": [],
         "assess": []
       }
@@ -220,10 +224,12 @@
         "title": "Meeting 1",
         "lesson": [
           "Unrest to Independence note packet due",
-          "Legacies of the American Revolution Harkness"
+          "Articles of Confederation lecture",
+          "Articles of Confederation one-pager and SAQ",
+          "Use lecture and reading to complete"
         ],
         "homework": [
-          "Articles of Confederation Excerpts and Federalist no. 15 Harkness prep"
+          "Finish SAQ if not finished in class"
         ],
         "assess": []
       },
@@ -252,8 +258,10 @@
         "start": "1:15 PM",
         "end": "2:15 PM",
         "color": "#F36666",
-        "title": "",
-        "lesson": [],
+        "title": "Faceless Self Portaits",
+        "lesson": [
+          "Sketchbook Studio Work"
+        ],
         "homework": [],
         "assess": []
       },
@@ -301,12 +309,10 @@
         "color": "#990000",
         "title": "Meeting 2",
         "lesson": [
-          "Articles of Confederation lecture",
-          "Articles of Confederation one-pager and SAQ",
-          "Use lecture and reading to complete"
+          "Legacies of the American Revolution Harkness",
+          "Federalist no. 15 reading and questions"
         ],
         "homework": [
-          "Articles of Confederation Excerpts and Federalist no. 15 Harkness prep",
           "Creating the New Nation note packet"
         ],
         "assess": []
@@ -340,8 +346,11 @@
         "start": "11:30 AM",
         "end": "12:30 PM",
         "color": "#F36666",
-        "title": "",
-        "lesson": [],
+        "title": "Faceless Self Portaits",
+        "lesson": [
+          "Sketchbook Studio Work",
+          "Critiques"
+        ],
         "homework": [],
         "assess": []
       },
@@ -390,10 +399,12 @@
         "color": "#990000",
         "title": "Meeting 3",
         "lesson": [
-          "Articles of Confederation and Federalist no. 15 Harkness",
-          "Begin Constitutional Convention lecture and notes"
+          "Articles of Confederation and Federalist no. 15 discussion",
+          "Constitutional Convention lecture and notes",
+          "Begin Federalist vs. Anti-Federalist Harkness prep"
         ],
         "homework": [
+          "Federalist vs. Anti-Federalist Harkness prep (Harkness on Monday)",
           "Creating the New Nation note packet (due Meeting 4 of next week)"
         ],
         "assess": []
