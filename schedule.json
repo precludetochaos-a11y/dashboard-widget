@@ -1,6 +1,6 @@
 [
   {
-    "date": "09/14/2026",
+    "date": "09/21/2026",
     "dow": "Monday",
     "classes": [
       {
@@ -8,31 +8,25 @@
         "start": "8:00 AM",
         "end": "8:45 AM",
         "color": "#CDB8FA",
-        "title": "Meeting 1. Unit 3 Systems",
+        "title": "Unit 4.  Meeting 1",
         "lesson": [
-          "Introduction to Matrices"
+          "Inequalities and Problem Solving"
         ],
         "homework": [
-          "MML HW 3.3"
+          "MML 4.1"
         ],
-        "assess": [
-          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score"
-        ]
+        "assess": []
       },
       {
         "name": "3rd Hour - Eng III",
         "start": "9:30 AM",
         "end": "10:15 AM",
         "color": "#A4C2F4",
-        "title": "The Crucible - Act 1 ",
+        "title": "LSU Field Trip ",
         "lesson": [
-          "Students will complete Act 1.",
-          "Students will complete a quick write paragraph on conflict in Act 1."
+          "Students will attend a field trip to LSU to experience a well-rounded, vision-casting experience that not only introduces students to the academic side of college, but also exposes them to the many other opportunities and aspects of college life."
         ],
-        "homework": [
-          "Complete the quick write.",
-          "Prepare for Harkness in Meeting 2."
-        ],
+        "homework": [],
         "assess": []
       },
       {
@@ -40,14 +34,9 @@
         "start": "10:45 AM",
         "end": "11:30 AM",
         "color": "#990000",
-        "title": "Meeting 1",
-        "lesson": [
-          "Road to Independence Harkness"
-        ],
-        "homework": [
-          "Harkness prep for Meeting 2 of NEXT WEEK",
-          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
-        ],
+        "title": "NO CLASS: JUNIOR RETREAT",
+        "lesson": [],
+        "homework": [],
         "assess": []
       },
       {
@@ -55,11 +44,8 @@
         "start": "11:30 AM",
         "end": "12:15 PM",
         "color": "#FF0000",
-        "title": "Demand and Marginal Utility",
-        "lesson": [
-          "1. Students will learn about demand and marginal utility.",
-          "2. Students will participate in the Song Replay Experiment."
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -88,12 +74,8 @@
         "start": "1:45 PM",
         "end": "2:30 PM",
         "color": "#F36666",
-        "title": "Observation Skills (Contour & Value)",
-        "lesson": [
-          "Complete observational object drawing",
-          "Complete negative space sketch",
-          "Photograph sketchbook drawings & upload to GC"
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -102,21 +84,17 @@
         "start": "2:30 PM",
         "end": "3:15 PM",
         "color": "#FF8400",
-        "title": "Review for Test/Cheeto Lab Prep",
+        "title": "",
         "lesson": [
-          "-Read over procedure for Cheeto Lab",
-          "-Work on Study Guide"
+          "Junior LSU Trip- All Sophomores go to Quest (Study Hall)"
         ],
-        "homework": [
-          "-Study for test (M4)",
-          "-Complete Pre-Lab Qs (1-4)"
-        ],
+        "homework": [],
         "assess": []
       }
     ]
   },
   {
-    "date": "09/15/2026",
+    "date": "09/22/2026",
     "dow": "Tuesday",
     "classes": [
       {
@@ -124,16 +102,14 @@
         "start": "8:00 AM",
         "end": "9:00 AM",
         "color": "#CDB8FA",
-        "title": "Meeting 2. Unit 3 Systems",
+        "title": "Unit 4.  Meeting 2",
         "lesson": [
-          "Introduction to Matrices. (notes day 2)"
+          "Inequalities and Problem Solving"
         ],
         "homework": [
-          "MML HW 3.4"
+          "MML 4.1"
         ],
-        "assess": [
-          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score. Due Thursday 8am"
-        ]
+        "assess": []
       },
       {
         "name": "Advisory",
@@ -150,13 +126,15 @@
         "start": "10:30 AM",
         "end": "11:30 AM",
         "color": "#A4C2F4",
-        "title": "Harkness on Act 1 ",
+        "title": "The Crucible Act 2 ",
         "lesson": [
-          "ACT Prep",
-          "Students will Harkness on Act 1 with a specific focus on conflict.",
-          "Students will complete a blame chart for Act 1."
+          "Grammar Practice",
+          "Students will begin Act 2 of The Crucible",
+          "Googe Lit Trip"
         ],
-        "homework": [],
+        "homework": [
+          "Complete Reading for Harkness Prep"
+        ],
         "assess": []
       },
       {
@@ -164,9 +142,9 @@
         "start": "11:30 AM",
         "end": "12:30 PM",
         "color": "#FF0000",
-        "title": "Factors Effecting Demand",
+        "title": "Elasticity of Demand",
         "lesson": [
-          "1. Students will learn about causes to shifts in the demand curve. The lesson will include consumer income, substitutes, and complements."
+          "1. Students will learn about Elasticity of Demand."
         ],
         "homework": [],
         "assess": []
@@ -186,14 +164,9 @@
         "start": "1:15 PM",
         "end": "2:15 PM",
         "color": "#999999",
-        "title": "Meeting 2",
-        "lesson": [
-          "Dealer's Choice:",
-          "Students create a list of Theological and Ethical topics they would like to discuss with Mr. Whitfield."
-        ],
-        "homework": [
-          "None"
-        ],
+        "title": "",
+        "lesson": [],
+        "homework": [],
         "assess": []
       },
       {
@@ -201,19 +174,15 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#F36666",
-        "title": "Observation Skills (Contour & Value)",
-        "lesson": [
-          "Complete observational object drawing",
-          "Complete negative space sketch",
-          "Photograph sketchbook drawings & upload to GC"
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       }
     ]
   },
   {
-    "date": "09/16/2026",
+    "date": "09/23/2026",
     "dow": "Wednesday",
     "classes": [
       {
@@ -221,14 +190,15 @@
         "start": "9:00 AM",
         "end": "10:00 AM",
         "color": "#A4C2F4",
-        "title": "The Crucible Act 2 ",
+        "title": "The Crucible Act 2",
         "lesson": [
-          "Grammar Practice",
-          "Students will begin Act 2 of The Crucible",
-          "Googe Lit Trip"
+          "Poetry Bellringer",
+          "Harkness on first half of The Crucible Act 2",
+          "Irony Analysis on Act 2"
         ],
         "homework": [
-          "Complete Reading for Harkness Prep"
+          "Complete Irony Analysis on Act 2",
+          "Complete Act 2"
         ],
         "assess": []
       },
@@ -247,15 +217,13 @@
         "start": "10:30 AM",
         "end": "11:30 AM",
         "color": "#990000",
-        "title": "Meeting 2",
+        "title": "Meeting 1",
         "lesson": [
-          "Recap Harkness from previous class",
-          "Road to Revolution Gallery Walk",
-          "Gallery Walk Debrief"
+          "Unrest to Independence note packet due",
+          "Legacies of the American Revolution Harkness"
         ],
         "homework": [
-          "Harkness prep for Meeting 2 of NEXT WEEK",
-          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+          "Articles of Confederation Excerpts and Federalist no. 15 Harkness prep"
         ],
         "assess": []
       },
@@ -264,13 +232,9 @@
         "start": "11:30 AM",
         "end": "12:30 PM",
         "color": "#999999",
-        "title": "Meeting 3",
-        "lesson": [
-          "Four Virtues & OT Character Study Project"
-        ],
-        "homework": [
-          "None"
-        ],
+        "title": "",
+        "lesson": [],
+        "homework": [],
         "assess": []
       },
       {
@@ -288,12 +252,8 @@
         "start": "1:15 PM",
         "end": "2:15 PM",
         "color": "#F36666",
-        "title": "Observation Skills (Contour & Value)",
-        "lesson": [
-          "Complete observational object drawing",
-          "Complete negative space sketch",
-          "Photograph sketchbook drawings & upload to GC"
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -302,19 +262,20 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#FF8400",
-        "title": "Energy of a Cheeto Lab",
+        "title": "Chapter 4 - Atoms & Elements",
         "lesson": [
-          "Energy of a Cheeto Lab"
+          "-3.1 Element Names & Symbols",
+          "-3.2 The Periodic Table"
         ],
         "homework": [
-          "Complete Lab Packet"
+          "None"
         ],
         "assess": []
       }
     ]
   },
   {
-    "date": "09/17/2026",
+    "date": "09/24/2026",
     "dow": "Thursday",
     "classes": [
       {
@@ -322,9 +283,15 @@
         "start": "8:00 AM",
         "end": "9:00 AM",
         "color": "#A4C2F4",
-        "title": "",
-        "lesson": [],
-        "homework": [],
+        "title": "The Crucible Act 2",
+        "lesson": [
+          "Students will watch Act 2 on film.",
+          "Students will begin Act 3 in class."
+        ],
+        "homework": [
+          "Read Act 3 for Homework",
+          "Prepare for Act 3 Harkness on Monday"
+        ],
         "assess": []
       },
       {
@@ -332,15 +299,15 @@
         "start": "9:00 AM",
         "end": "10:00 AM",
         "color": "#990000",
-        "title": "Meeting 3",
+        "title": "Meeting 2",
         "lesson": [
-          "Review Road to Revolution Gallery Walk from previous class",
-          "Mercantilism Simulation",
-          "Complete debrief afterwards"
+          "Articles of Confederation lecture",
+          "Articles of Confederation one-pager and SAQ",
+          "Use lecture and reading to complete"
         ],
         "homework": [
-          "Harkness prep for Meeting 2 of NEXT WEEK",
-          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+          "Articles of Confederation Excerpts and Federalist no. 15 Harkness prep",
+          "Creating the New Nation note packet"
         ],
         "assess": []
       },
@@ -359,30 +326,22 @@
         "start": "10:30 AM",
         "end": "11:30 AM",
         "color": "#CDB8FA",
-        "title": "Meeting 3 Unit 3 Systems",
+        "title": "Meeting 3 Unit 4 Compound Inequalities",
         "lesson": [
-          "Operations with Matrices. (notes day 3)"
+          "Solving inequalities of the compound nature"
         ],
         "homework": [
-          "Test Review 3.1 - 3.4"
+          "MML 4.2"
         ],
-        "assess": [
-          "MML Quiz 3. (must work at least 2 times before the due date) will take the highest score. Due Thursday  8 am",
-          "Work MML 3.1 - 3.4 test review. Due Friday  at 8 am"
-        ]
+        "assess": []
       },
       {
         "name": "7th Hour Ap Art",
         "start": "11:30 AM",
         "end": "12:30 PM",
         "color": "#F36666",
-        "title": "Observation Skills (Contour & Value)",
-        "lesson": [
-          "Complete observational object drawing",
-          "Complete negative space sketch",
-          "Photograph sketchbook drawings & upload to GC",
-          "ALL DUE AT THE END OF CLASS"
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -402,13 +361,8 @@
         "end": "2:15 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [
-          "-Go over Study Guide",
-          "-Test Review Game"
-        ],
-        "homework": [
-          "Study for test M4!"
-        ],
+        "lesson": [],
+        "homework": [],
         "assess": []
       },
       {
@@ -416,7 +370,7 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#FF0000",
-        "title": "Demand Elasticity",
+        "title": "",
         "lesson": [],
         "homework": [],
         "assess": []
@@ -424,7 +378,7 @@
     ]
   },
   {
-    "date": "09/18/2026",
+    "date": "09/25/2026",
     "dow": "Friday",
     "classes": [
       {
@@ -432,14 +386,13 @@
         "start": "8:00 AM",
         "end": "9:00 AM",
         "color": "#990000",
-        "title": "Meeting 4",
+        "title": "Meeting 3",
         "lesson": [
-          "America the Story of Us: Revolution",
-          "Fill out viewing guide during movie"
+          "Articles of Confederation and Federalist no. 15 Harkness",
+          "Begin Constitutional Convention lecture and notes"
         ],
         "homework": [
-          "Harkness prep for Meeting 2 of NEXT WEEK",
-          "Unrest to Independence note packet. Due at the start of Meeting 2 NEXT WEEK."
+          "Creating the New Nation note packet (due Meeting 4 of next week)"
         ],
         "assess": []
       },
@@ -448,16 +401,14 @@
         "start": "9:00 AM",
         "end": "10:00 AM",
         "color": "#CDB8FA",
-        "title": "Meeting 4 Unit 3 Systems",
+        "title": "Meeting 4 Unit 4 Inequalities",
         "lesson": [
-          "Operations with Matrices Test"
+          "Solving Ab Value Equations and Inequalities"
         ],
         "homework": [
-          "Test Review 3.1 - 3.4"
+          "MML 4.3"
         ],
-        "assess": [
-          "Test 3"
-        ]
+        "assess": []
       },
       {
         "name": "Break",
@@ -475,9 +426,7 @@
         "end": "12:30 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [
-          "Junior LSU Trip- All Sophomores go to Quest (Study Hall)"
-        ],
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -496,10 +445,8 @@
         "start": "1:15 PM",
         "end": "2:15 PM",
         "color": "#FF0000",
-        "title": "Demand ",
-        "lesson": [
-          "1. Students will complete an in-class assignment on Demand."
-        ],
+        "title": "",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -508,13 +455,9 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#999999",
-        "title": "Meeting 4",
-        "lesson": [
-          "Four Virtues & OT Character Study Project"
-        ],
-        "homework": [
-          "None"
-        ],
+        "title": "",
+        "lesson": [],
+        "homework": [],
         "assess": []
       }
     ]
