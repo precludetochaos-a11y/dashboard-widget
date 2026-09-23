@@ -370,8 +370,13 @@
         "end": "2:15 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "-properties of Metals, nonmetals, and metalloids",
+          "-History of Atomic Theory"
+        ],
+        "homework": [
+          "None"
+        ],
         "assess": []
       },
       {
