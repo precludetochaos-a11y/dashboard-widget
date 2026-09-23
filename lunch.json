@@ -1,10 +1,10 @@
 [
   {
-    "id": "508691058",
-    "menuId": "138581",
-    "recipeId": "221925",
+    "id": "508172255",
+    "menuId": "138482",
+    "recipeId": "135492",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
     "week": "7",
     "meal": "Lunch",
     "stations": [
@@ -18,7 +18,7 @@
     "dailyCategory": "NONE",
     "displayStation": "Free Style™",
     "card": "0",
-    "name": "Jamaican-Style Braised Chicken",
+    "name": "Coffee-Rubbed Pork Loin",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
@@ -31,45 +31,159 @@
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
+      "performanceSpotlight": ""
     },
     "hasDetails": true
   },
   {
-    "id": "508691055",
-    "menuId": "138581",
-    "recipeId": "92832",
+    "id": "508172252",
+    "menuId": "138482",
+    "recipeId": "215928",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
     "week": "7",
     "meal": "Lunch",
     "stations": [
       {
-        "id": 19,
-        "name": "Uncharted",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
+        "id": "5",
+        "name": "Crossroads",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation5.png?20250917"
       }
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "Uncharted",
+    "displayStation": "Crossroads",
     "card": "0",
-    "name": "Grilled Jerk Chicken Thighs",
+    "name": "Bang Bang Shrimp Bowl",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
     "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "Sh"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Shellfish"
+      ],
+      "lmAllergenCodes": [
+        "E",
+        "Mi",
+        "So",
+        "Mu",
+        "Su",
+        "Oi"
+      ],
+      "lmAllergenNames": [
+        "Egg",
+        "Milk",
+        "Soy",
+        "Mustard",
+        "Sulfites",
+        "Oil"
+      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508172297",
+    "menuId": "138482",
+    "recipeId": "19042",
+    "recipeType": "Recipe",
+    "day": "3",
+    "week": "7",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": 23,
+        "name": "Craft BBQ",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation23.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Craft BBQ",
+    "card": "4",
+    "name": "Grilled Eggplant Baked Ziti",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "Mi"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Milk"
+      ],
+      "lmAllergenCodes": [
+        "E"
+      ],
+      "lmAllergenNames": [
+        "Egg"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508172258",
+    "menuId": "138482",
+    "recipeId": "208610",
+    "recipeType": "Recipe",
+    "day": "3",
+    "week": "7",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": 23,
+        "name": "Craft BBQ",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation23.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Craft BBQ",
+    "card": "0",
+    "name": "BBQ Pulled Pork",
+    "desc": "",
+    "price": 0,
+    "dot": "Red",
+    "allergens": {
       "allergenCodes": [],
       "allergenNames": [],
       "lmAllergenCodes": [
-        "Se",
-        "Mu",
-        "Su"
+        "W",
+        "G",
+        "F",
+        "So",
+        "Mu"
       ],
       "lmAllergenNames": [
-        "Sesame",
-        "Mustard",
-        "Sulfites"
+        "Wheat",
+        "Gluten",
+        "Fish",
+        "Soy",
+        "Mustard"
       ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
@@ -80,51 +194,39 @@
     "hasDetails": true
   },
   {
-    "id": "510675748",
-    "menuId": "138581",
-    "recipeId": "93302",
+    "id": "508172309",
+    "menuId": "138482",
+    "recipeId": "33852",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
     "week": "7",
     "meal": "Lunch",
     "stations": [
       {
-        "id": "13",
-        "name": "Vegitas®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation13.png?20250917"
+        "id": "2",
+        "name": "The Classic Cuts Deli®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation2.png?20250917"
       }
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "Vegitas®",
-    "card": "0",
-    "name": "Jamaican Jerk Tofu with Pepper and Onion",
+    "displayStation": "The Classic Cuts Deli®",
+    "card": "7",
+    "name": "House-Roasted Montreal Pork Loin",
     "desc": "",
     "price": 0,
-    "dot": "Green",
+    "dot": "Yellow",
     "allergens": {
-      "allergenCodes": [
-        "So"
-      ],
-      "allergenNames": [
-        "Soy"
-      ],
+      "allergenCodes": [],
+      "allergenNames": [],
       "lmAllergenCodes": [
-        "Se",
-        "Mu",
-        "Su"
+        "Mu"
       ],
       "lmAllergenNames": [
-        "Sesame",
-        "Mustard",
-        "Sulfites"
+        "Mustard"
       ],
-      "lifestyleCodes": [
-        "V+"
-      ],
-      "lifestyleNames": [
-        "Vegan"
-      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
       "performanceSpotlight": "Protein"
