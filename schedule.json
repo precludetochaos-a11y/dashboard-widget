@@ -444,8 +444,13 @@
         "end": "12:30 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "-Finish History of Atomic Theory",
+          "-Composition of the Atom, Isotopes and Ions"
+        ],
+        "homework": [
+          "Finish Atom Worksheet"
+        ],
         "assess": []
       },
       {
