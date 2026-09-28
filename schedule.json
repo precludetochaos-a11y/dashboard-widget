@@ -105,8 +105,12 @@
         "end": "3:15 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "Go over Protons, Neutrons, Electrons Sheet"
+        ],
+        "homework": [
+          "None"
+        ],
         "assess": []
       }
     ]
