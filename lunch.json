@@ -1,13 +1,18 @@
 [
   {
-    "id": "508172255",
+    "id": "512543974",
     "menuId": "138482",
-    "recipeId": "135492",
+    "recipeId": "94702",
     "recipeType": "Recipe",
-    "day": "3",
-    "week": "7",
+    "day": "1",
+    "week": "8",
     "meal": "Lunch",
     "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      },
       {
         "id": "15",
         "name": "Free Style™",
@@ -16,9 +21,9 @@
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "Free Style™",
-    "card": "0",
-    "name": "Coffee-Rubbed Pork Loin",
+    "displayStation": "The Main Ingredient®, Free Style™",
+    "card": "5",
+    "name": "Vegetarian Red Beans and Rice",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
@@ -27,6 +32,54 @@
       "allergenNames": [],
       "lmAllergenCodes": [],
       "lmAllergenNames": [],
+      "lifestyleCodes": [
+        "V+"
+      ],
+      "lifestyleNames": [
+        "Vegan"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Starch"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "512509959",
+    "menuId": "138482",
+    "recipeId": "224996",
+    "recipeType": "Recipe",
+    "day": "1",
+    "week": "8",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "0",
+    "name": "Creole Red Beans with Sausage and Ham",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [
+        "Mi",
+        "So",
+        "Mu"
+      ],
+      "lmAllergenNames": [
+        "Milk",
+        "Soy",
+        "Mustard"
+      ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
@@ -36,12 +89,12 @@
     "hasDetails": true
   },
   {
-    "id": "508172252",
+    "id": "508168321",
     "menuId": "138482",
-    "recipeId": "215928",
+    "recipeId": "69982",
     "recipeType": "Recipe",
-    "day": "3",
-    "week": "7",
+    "day": "1",
+    "week": "8",
     "meal": "Lunch",
     "stations": [
       {
@@ -54,182 +107,40 @@
     "dailyCategory": "NONE",
     "displayStation": "Crossroads",
     "card": "0",
-    "name": "Bang Bang Shrimp Bowl",
+    "name": "Deluxe Bacon Cheeseburgers",
     "desc": "",
     "price": 0,
-    "dot": "Yellow",
+    "dot": "Red",
     "allergens": {
       "allergenCodes": [
         "W",
         "G",
-        "Sh"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten",
-        "Shellfish"
-      ],
-      "lmAllergenCodes": [
-        "E",
-        "Mi",
-        "So",
-        "Mu",
-        "Su",
-        "Oi"
-      ],
-      "lmAllergenNames": [
-        "Egg",
-        "Milk",
-        "Soy",
-        "Mustard",
-        "Sulfites",
-        "Oil"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508172297",
-    "menuId": "138482",
-    "recipeId": "19042",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "7",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": 23,
-        "name": "Craft BBQ",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation23.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Craft BBQ",
-    "card": "4",
-    "name": "Grilled Eggplant Baked Ziti",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G",
+        "F",
         "Mi"
       ],
       "allergenNames": [
         "Wheat",
         "Gluten",
+        "Fish",
         "Milk"
       ],
       "lmAllergenCodes": [
-        "E"
+        "E",
+        "So",
+        "Se",
+        "Su"
       ],
       "lmAllergenNames": [
-        "Egg"
+        "Egg",
+        "Soy",
+        "Sesame",
+        "Sulfites"
       ],
-      "lifestyleCodes": [
-        "V"
-      ],
-      "lifestyleNames": [
-        "Vegetarian"
-      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
       "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508172258",
-    "menuId": "138482",
-    "recipeId": "208610",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "7",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": 23,
-        "name": "Craft BBQ",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation23.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Craft BBQ",
-    "card": "0",
-    "name": "BBQ Pulled Pork",
-    "desc": "",
-    "price": 0,
-    "dot": "Red",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [
-        "W",
-        "G",
-        "F",
-        "So",
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Wheat",
-        "Gluten",
-        "Fish",
-        "Soy",
-        "Mustard"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508172309",
-    "menuId": "138482",
-    "recipeId": "33852",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "7",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "2",
-        "name": "The Classic Cuts Deli®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation2.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Classic Cuts Deli®",
-    "card": "7",
-    "name": "House-Roasted Montreal Pork Loin",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Mustard"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
     },
     "hasDetails": true
   }
