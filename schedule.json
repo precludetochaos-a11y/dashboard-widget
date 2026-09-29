@@ -252,10 +252,9 @@
         "lesson": [
           "Articles of Confederation and Constitution comparison chart",
           "Constitution Scavenger Hunt",
-          "Washington and Adams Harkness prep"
+          "Constitution Handbill"
         ],
         "homework": [
-          "Finish Harkness prep",
           "Creating the New Nation note packet (due Meeting 4)"
         ],
         "assess": []
@@ -303,8 +302,12 @@
         "end": "3:15 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "-Average Atomic Mass and Percent Abundance"
+        ],
+        "homework": [
+          "Finish WS if not finished in class"
+        ],
         "assess": []
       }
     ]
@@ -338,8 +341,8 @@
         "color": "#990000",
         "title": "Meeting 3",
         "lesson": [
-          "Washington and Adams Harkness",
-          "Washington and Adams lecture and notes"
+          "Washington and Adams lecture and report card activity",
+          "Washington's Farewell Address analysis"
         ],
         "homework": [
           "Creating the New Nation note packet (due Meeting 4)"
