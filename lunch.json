@@ -1,17 +1,17 @@
 [
   {
-    "id": "512543974",
+    "id": "508168408",
     "menuId": "138482",
-    "recipeId": "94702",
+    "recipeId": "212909",
     "recipeType": "Recipe",
-    "day": "1",
+    "day": "2",
     "week": "8",
     "meal": "Lunch",
     "stations": [
       {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+        "id": 19,
+        "name": "Uncharted",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
       },
       {
         "id": "15",
@@ -21,9 +21,9 @@
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®, Free Style™",
-    "card": "5",
-    "name": "Vegetarian Red Beans and Rice",
+    "displayStation": "Uncharted, Free Style™",
+    "card": "0",
+    "name": "Chicken Fajitas (GF)",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
@@ -32,54 +32,6 @@
       "allergenNames": [],
       "lmAllergenCodes": [],
       "lmAllergenNames": [],
-      "lifestyleCodes": [
-        "V+"
-      ],
-      "lifestyleNames": [
-        "Vegan"
-      ],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Starch"
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "512509959",
-    "menuId": "138482",
-    "recipeId": "224996",
-    "recipeType": "Recipe",
-    "day": "1",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®",
-    "card": "0",
-    "name": "Creole Red Beans with Sausage and Ham",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [
-        "Mi",
-        "So",
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Milk",
-        "Soy",
-        "Mustard"
-      ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
@@ -89,11 +41,11 @@
     "hasDetails": true
   },
   {
-    "id": "508168321",
+    "id": "508168405",
     "menuId": "138482",
-    "recipeId": "69982",
+    "recipeId": "40582",
     "recipeType": "Recipe",
-    "day": "1",
+    "day": "2",
     "week": "8",
     "meal": "Lunch",
     "stations": [
@@ -107,35 +59,125 @@
     "dailyCategory": "NONE",
     "displayStation": "Crossroads",
     "card": "0",
-    "name": "Deluxe Bacon Cheeseburgers",
+    "name": "House-Roasted Turkey & Pesto Wrap",
     "desc": "",
     "price": 0,
-    "dot": "Red",
+    "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
         "W",
-        "G",
-        "F",
-        "Mi"
+        "G"
       ],
       "allergenNames": [
         "Wheat",
-        "Gluten",
-        "Fish",
-        "Milk"
+        "Gluten"
       ],
       "lmAllergenCodes": [
-        "E",
+        "Mi",
         "So",
-        "Se",
         "Su"
       ],
       "lmAllergenNames": [
-        "Egg",
+        "Milk",
         "Soy",
-        "Sesame",
         "Sulfites"
       ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508168453",
+    "menuId": "138482",
+    "recipeId": "69272",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "8",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": 19,
+        "name": "Uncharted",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Uncharted",
+    "card": "4",
+    "name": "Roasted Vegetable Soft Tacos",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten"
+      ],
+      "lmAllergenCodes": [
+        "Mi",
+        "So",
+        "Mu",
+        "Su"
+      ],
+      "lmAllergenNames": [
+        "Milk",
+        "Soy",
+        "Mustard",
+        "Sulfites"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [
+        "V+"
+      ],
+      "lmLifestyleNames": [
+        "Vegan"
+      ],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508168390",
+    "menuId": "138482",
+    "recipeId": "110222",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "8",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "21",
+        "name": "Ladle & Co.",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation21.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Ladle & Co.",
+    "card": "0",
+    "name": "Carne Guisada (Mexican Beef and Potato Stew)",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
