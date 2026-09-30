@@ -308,7 +308,7 @@
           "-Average Atomic Mass and Percent Abundance"
         ],
         "homework": [
-          "Finish WS if not finished in class"
+          "None"
         ],
         "assess": []
       }
@@ -401,8 +401,12 @@
         "end": "2:15 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "More practice with Percent Abundance"
+        ],
+        "homework": [
+          "Finish WS"
+        ],
         "assess": []
       },
       {
@@ -469,8 +473,12 @@
         "end": "12:30 PM",
         "color": "#FF8400",
         "title": "",
-        "lesson": [],
-        "homework": [],
+        "lesson": [
+          "Mystery Atom Activity"
+        ],
+        "homework": [
+          "None!"
+        ],
         "assess": []
       },
       {
