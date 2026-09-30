@@ -163,8 +163,10 @@
         "start": "11:30 AM",
         "end": "12:30 PM",
         "color": "#FF0000",
-        "title": "",
-        "lesson": [],
+        "title": "Why A Budget is Important",
+        "lesson": [
+          "1. Students will watch three short videos and answer questions about budgeting."
+        ],
         "homework": [],
         "assess": []
       },
@@ -266,7 +268,7 @@
         "color": "#999999",
         "title": "Meeting 3",
         "lesson": [
-          "Journal Reflection: According to Lewis, what does it really mean to love someone?",
+          "Journal Reflection: What do you think is the difference between love and lust?",
           "Harkness: Mere Christianity - Book 3, chapters 5-6"
         ],
         "homework": [
@@ -408,8 +410,10 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#FF0000",
-        "title": "",
-        "lesson": [],
+        "title": "Budgeting Project",
+        "lesson": [
+          "1. Students will be introduced to budgeting project."
+        ],
         "homework": [],
         "assess": []
       }
@@ -484,8 +488,10 @@
         "start": "1:15 PM",
         "end": "2:15 PM",
         "color": "#FF0000",
-        "title": "",
-        "lesson": [],
+        "title": "Budgeting Project",
+        "lesson": [
+          "1. Students will continue to work on budgeting project."
+        ],
         "homework": [],
         "assess": []
       },
