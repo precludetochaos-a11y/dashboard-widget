@@ -1,18 +1,13 @@
 [
   {
-    "id": "508168408",
+    "id": "508168612",
     "menuId": "138482",
-    "recipeId": "212909",
+    "recipeId": "59572",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "5",
     "week": "8",
     "meal": "Lunch",
     "stations": [
-      {
-        "id": 19,
-        "name": "Uncharted",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
-      },
       {
         "id": "15",
         "name": "Free Style™",
@@ -21,12 +16,12 @@
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "Uncharted, Free Style™",
+    "displayStation": "Free Style™",
     "card": "0",
-    "name": "Chicken Fajitas (GF)",
+    "name": "House-Roasted Black Pepper Turkey Breast",
     "desc": "",
     "price": 0,
-    "dot": "Yellow",
+    "dot": "Red",
     "allergens": {
       "allergenCodes": [],
       "allergenNames": [],
@@ -36,16 +31,104 @@
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508168597",
+    "menuId": "138482",
+    "recipeId": "204916",
+    "recipeType": "Recipe",
+    "day": "5",
+    "week": "8",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "0",
+    "name": "Chicken and Sausage Jambalaya",
+    "desc": "",
+    "price": 0,
+    "dot": "Red",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [
+        "Mi",
+        "So",
+        "Mu"
+      ],
+      "lmAllergenNames": [
+        "Milk",
+        "Soy",
+        "Mustard"
+      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
       "performanceSpotlight": ""
     },
     "hasDetails": true
   },
   {
-    "id": "508168405",
+    "id": "508168636",
     "menuId": "138482",
-    "recipeId": "40582",
+    "recipeId": "80732",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "5",
+    "week": "8",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "2",
+    "name": "Cheese and Broccoli Quinoa",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "Mi"
+      ],
+      "allergenNames": [
+        "Milk"
+      ],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508168606",
+    "menuId": "138482",
+    "recipeId": "222708",
+    "recipeType": "Recipe",
+    "day": "5",
     "week": "8",
     "meal": "Lunch",
     "stations": [
@@ -59,125 +142,35 @@
     "dailyCategory": "NONE",
     "displayStation": "Crossroads",
     "card": "0",
-    "name": "House-Roasted Turkey & Pesto Wrap",
+    "name": "Whole Wheat Chicken Caesar Wrap",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
         "W",
-        "G"
+        "G",
+        "E",
+        "F",
+        "Mi"
       ],
       "allergenNames": [
         "Wheat",
-        "Gluten"
+        "Gluten",
+        "Egg",
+        "Fish",
+        "Milk"
       ],
       "lmAllergenCodes": [
-        "Mi",
-        "So",
-        "Su"
-      ],
-      "lmAllergenNames": [
-        "Milk",
-        "Soy",
-        "Sulfites"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508168453",
-    "menuId": "138482",
-    "recipeId": "69272",
-    "recipeType": "Recipe",
-    "day": "2",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": 19,
-        "name": "Uncharted",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation19.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Uncharted",
-    "card": "4",
-    "name": "Roasted Vegetable Soft Tacos",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten"
-      ],
-      "lmAllergenCodes": [
-        "Mi",
         "So",
         "Mu",
         "Su"
       ],
       "lmAllergenNames": [
-        "Milk",
         "Soy",
         "Mustard",
         "Sulfites"
       ],
-      "lifestyleCodes": [
-        "V"
-      ],
-      "lifestyleNames": [
-        "Vegetarian"
-      ],
-      "lmLifestyleCodes": [
-        "V+"
-      ],
-      "lmLifestyleNames": [
-        "Vegan"
-      ],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508168390",
-    "menuId": "138482",
-    "recipeId": "110222",
-    "recipeType": "Recipe",
-    "day": "2",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "21",
-        "name": "Ladle & Co.",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation21.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Ladle & Co.",
-    "card": "0",
-    "name": "Carne Guisada (Mexican Beef and Potato Stew)",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [],
-      "lmAllergenNames": [],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
