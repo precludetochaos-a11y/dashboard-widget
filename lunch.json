@@ -1,11 +1,78 @@
 [
   {
-    "id": "508168612",
+    "id": "513051686",
     "menuId": "138482",
-    "recipeId": "59572",
+    "recipeId": "3442",
     "recipeType": "Recipe",
-    "day": "5",
-    "week": "8",
+    "day": "1",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      },
+      {
+        "id": "4",
+        "name": "Seasonings",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation4.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®, Seasonings",
+    "card": "1",
+    "name": "Veggie Burgers with Caramelized Onions",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "So"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Soy"
+      ],
+      "lmAllergenCodes": [
+        "E",
+        "Mi",
+        "Se",
+        "Mu"
+      ],
+      "lmAllergenNames": [
+        "Egg",
+        "Milk",
+        "Sesame",
+        "Mustard"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [
+        "V+"
+      ],
+      "lmLifestyleNames": [
+        "Vegan"
+      ],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508169728",
+    "menuId": "138482",
+    "recipeId": "212012",
+    "recipeType": "Recipe",
+    "day": "1",
+    "week": "9",
     "meal": "Lunch",
     "stations": [
       {
@@ -18,7 +85,7 @@
     "dailyCategory": "NONE",
     "displayStation": "Free Style™",
     "card": "0",
-    "name": "House-Roasted Black Pepper Turkey Breast",
+    "name": "Hamburger Patty",
     "desc": "",
     "price": 0,
     "dot": "Red",
@@ -27,150 +94,6 @@
       "allergenNames": [],
       "lmAllergenCodes": [],
       "lmAllergenNames": [],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508168597",
-    "menuId": "138482",
-    "recipeId": "204916",
-    "recipeType": "Recipe",
-    "day": "5",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®",
-    "card": "0",
-    "name": "Chicken and Sausage Jambalaya",
-    "desc": "",
-    "price": 0,
-    "dot": "Red",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [
-        "Mi",
-        "So",
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Milk",
-        "Soy",
-        "Mustard"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508168636",
-    "menuId": "138482",
-    "recipeId": "80732",
-    "recipeType": "Recipe",
-    "day": "5",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®",
-    "card": "2",
-    "name": "Cheese and Broccoli Quinoa",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "Mi"
-      ],
-      "allergenNames": [
-        "Milk"
-      ],
-      "lmAllergenCodes": [],
-      "lmAllergenNames": [],
-      "lifestyleCodes": [
-        "V"
-      ],
-      "lifestyleNames": [
-        "Vegetarian"
-      ],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508168606",
-    "menuId": "138482",
-    "recipeId": "222708",
-    "recipeType": "Recipe",
-    "day": "5",
-    "week": "8",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "5",
-        "name": "Crossroads",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation5.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Crossroads",
-    "card": "0",
-    "name": "Whole Wheat Chicken Caesar Wrap",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G",
-        "E",
-        "F",
-        "Mi"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten",
-        "Egg",
-        "Fish",
-        "Milk"
-      ],
-      "lmAllergenCodes": [
-        "So",
-        "Mu",
-        "Su"
-      ],
-      "lmAllergenNames": [
-        "Soy",
-        "Mustard",
-        "Sulfites"
-      ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
