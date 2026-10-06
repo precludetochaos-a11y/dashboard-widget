@@ -1,77 +1,10 @@
 [
   {
-    "id": "513051686",
+    "id": "508170118",
     "menuId": "138482",
-    "recipeId": "3442",
+    "recipeId": "212868",
     "recipeType": "Recipe",
-    "day": "1",
-    "week": "9",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      },
-      {
-        "id": "4",
-        "name": "Seasonings",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation4.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®, Seasonings",
-    "card": "1",
-    "name": "Veggie Burgers with Caramelized Onions",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G",
-        "So"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten",
-        "Soy"
-      ],
-      "lmAllergenCodes": [
-        "E",
-        "Mi",
-        "Se",
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Egg",
-        "Milk",
-        "Sesame",
-        "Mustard"
-      ],
-      "lifestyleCodes": [
-        "V"
-      ],
-      "lifestyleNames": [
-        "Vegetarian"
-      ],
-      "lmLifestyleCodes": [
-        "V+"
-      ],
-      "lmLifestyleNames": [
-        "Vegan"
-      ],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508169728",
-    "menuId": "138482",
-    "recipeId": "212012",
-    "recipeType": "Recipe",
-    "day": "1",
+    "day": "2",
     "week": "9",
     "meal": "Lunch",
     "stations": [
@@ -85,15 +18,181 @@
     "dailyCategory": "NONE",
     "displayStation": "Free Style™",
     "card": "0",
-    "name": "Hamburger Patty",
+    "name": "Grilled Ranch Chicken",
     "desc": "",
     "price": 0,
-    "dot": "Red",
+    "dot": "Yellow",
     "allergens": {
       "allergenCodes": [],
       "allergenNames": [],
       "lmAllergenCodes": [],
       "lmAllergenNames": [],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508170121",
+    "menuId": "138482",
+    "recipeId": "111542",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "0",
+    "name": "Chicken Fricassee",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "F"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Fish"
+      ],
+      "lmAllergenCodes": [
+        "So",
+        "Se",
+        "Mu",
+        "Su"
+      ],
+      "lmAllergenNames": [
+        "Soy",
+        "Sesame",
+        "Mustard",
+        "Sulfites"
+      ],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508170133",
+    "menuId": "138482",
+    "recipeId": "25732",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®",
+    "card": "4",
+    "name": "Spinach and Artichoke-Stuffed Portobello",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "Mi"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Milk"
+      ],
+      "lmAllergenCodes": [
+        "E",
+        "So",
+        "Se"
+      ],
+      "lmAllergenNames": [
+        "Egg",
+        "Soy",
+        "Sesame"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "513051698",
+    "menuId": "138482",
+    "recipeId": "55722",
+    "recipeType": "Recipe",
+    "day": "2",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "5",
+        "name": "Crossroads",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation5.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Crossroads",
+    "card": "0",
+    "name": "Bacon-Cheddar Chicken Sandwich",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "Mi"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Milk"
+      ],
+      "lmAllergenCodes": [
+        "E",
+        "So",
+        "Se",
+        "Mu",
+        "Oi"
+      ],
+      "lmAllergenNames": [
+        "Egg",
+        "Soy",
+        "Sesame",
+        "Mustard",
+        "Oil"
+      ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
