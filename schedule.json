@@ -1,37 +1,18 @@
 [
   {
-    "date": "09/28/2026",
+    "date": "10/05/2026",
     "dow": "Monday",
     "classes": [
-      {
-        "name": "1st Hour. Alg 2 AP",
-        "start": "8:00 AM",
-        "end": "8:45 AM",
-        "color": "#CDB8FA",
-        "title": "Meeting 1 Review Worksheets Inequalities ",
-        "lesson": [
-          "Test Review"
-        ],
-        "homework": [
-          "ONLINE TEXTBOOK",
-          "p 309 1-5; 13 - 23; 25 - 33 41 - 49 ODD",
-          "in composition book"
-        ],
-        "assess": []
-      },
       {
         "name": "3rd Hour - Eng III",
         "start": "9:30 AM",
         "end": "10:15 AM",
         "color": "#A4C2F4",
-        "title": "The Crucible Act 2",
+        "title": "PSAT -  NO CLASS",
         "lesson": [
-          "Harkness on second of The Crucible Act 2",
-          "Begin Act 3"
+          "Today, Students will take the PSAT. There will be NO CLASS and a NOON Dismissal!"
         ],
-        "homework": [
-          "Complete Act 3 for Homework"
-        ],
+        "homework": [],
         "assess": []
       },
       {
@@ -39,24 +20,8 @@
         "start": "10:45 AM",
         "end": "11:30 AM",
         "color": "#990000",
-        "title": "Meeting 1",
-        "lesson": [
-          "Federalist vs. Anti-Federalist Harkness"
-        ],
-        "homework": [
-          "Creating the New Nation note packet (due Meeting 4)"
-        ],
-        "assess": []
-      },
-      {
-        "name": "5th Hour - Bus/PerFi",
-        "start": "11:30 AM",
-        "end": "12:15 PM",
-        "color": "#FF0000",
-        "title": "Budgeting in Excel",
-        "lesson": [
-          "Students will begin budgeting project in Excel."
-        ],
+        "title": "NO CLASS: ACT DAY",
+        "lesson": [],
         "homework": [],
         "assess": []
       },
@@ -75,10 +40,116 @@
         "start": "1:00 PM",
         "end": "1:45 PM",
         "color": "#999999",
+        "title": "PSAT - No Classes Scheduled",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "7th Hour Ap Art",
+        "start": "1:45 PM",
+        "end": "2:30 PM",
+        "color": "#F36666",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "2:30 PM",
+        "end": "3:15 PM",
+        "color": "#FF8400",
+        "title": "",
+        "lesson": [
+          "PSAT"
+        ],
+        "homework": [],
+        "assess": []
+      }
+    ]
+  },
+  {
+    "date": "10/06/2026",
+    "dow": "Tuesday",
+    "classes": [
+      {
+        "start": "",
+        "end": "",
+        "color": "#888",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "8:00 AM",
+        "end": "8:45 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 1. Factoring Chapter",
+        "lesson": [
+          "Factoring GCF"
+        ],
+        "homework": [
+          "MML 5.1"
+        ],
+        "assess": []
+      },
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "9:30 AM",
+        "end": "10:15 AM",
+        "color": "#A4C2F4",
+        "title": "The Crucible Test",
+        "lesson": [
+          "Students will take their test for The Crucible",
+          "Students will begin their eulogy for John Proctor."
+        ],
+        "homework": [],
+        "assess": [
+          "Test for The Crucible"
+        ]
+      },
+      {
+        "name": "4th Hour U.S. History",
+        "start": "10:45 AM",
+        "end": "11:30 AM",
+        "color": "#990000",
         "title": "Meeting 1",
         "lesson": [
-          "Four Virtues Essay Due",
-          "Presentations on Character Study"
+          "Work on Unit 3 Project"
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "5th Hour - Bus/PerFi",
+        "start": "11:30 AM",
+        "end": "12:15 PM",
+        "color": "#FF0000",
+        "title": "Budgeting - Federal Taxes",
+        "lesson": [
+          "1. Students will continue the budgeting project with a focus on taxes."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "1:00 PM",
+        "end": "1:45 PM",
+        "color": "#999999",
+        "title": "Meeting 1",
+        "lesson": [
+          "Highs & Lows of the Weekend",
+          "Students Read Mere Christianity, Book 3, Chapters 8-9",
+          "Harkness Points:",
+          "Pride, The Utmost Evil?",
+          "Competitive Pride",
+          "Self-Forgetfulness",
+          "Charity",
+          "Loving My Neighbor"
         ],
         "homework": [
           "None"
@@ -90,11 +161,9 @@
         "start": "1:45 PM",
         "end": "2:30 PM",
         "color": "#F36666",
-        "title": "Sketchbook Final Critique",
+        "title": "#1 Project: Faceless Self Portrait prompt",
         "lesson": [
-          "Inspiration slide presentation",
-          "Small group critique work",
-          "analyze feedback"
+          "studio work on #1"
         ],
         "homework": [],
         "assess": []
@@ -106,7 +175,7 @@
         "color": "#FF8400",
         "title": "",
         "lesson": [
-          "Go over Protons, Neutrons, Electrons Sheet"
+          "Ions and charges"
         ],
         "homework": [
           "None"
@@ -116,133 +185,44 @@
     ]
   },
   {
-    "date": "09/29/2026",
-    "dow": "Tuesday",
-    "classes": [
-      {
-        "name": "1st Hour. Alg 2 AP",
-        "start": "8:00 AM",
-        "end": "9:00 AM",
-        "color": "#CDB8FA",
-        "title": "Meeting 2. Inequalties",
-        "lesson": [
-          "MML Review Inequalities"
-        ],
-        "homework": [
-          "MML Test Review"
-        ],
-        "assess": []
-      },
-      {
-        "name": "Advisory",
-        "start": "10:00 AM",
-        "end": "10:30 AM",
-        "color": "#F9CB9C",
-        "title": "",
-        "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "3rd Hour - Eng III",
-        "start": "10:30 AM",
-        "end": "11:30 AM",
-        "color": "#A4C2F4",
-        "title": "The Crucible Act 3",
-        "lesson": [
-          "Use Google Gemini to create a study guide for your Grammar Test.",
-          "Harkness on Act 3",
-          "Danforth close read on classroom will help with this! Remember, if you complete it, you can get 1 bonus point on Harkness.",
-          "Watch Acts 2/3"
-        ],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "5th Hour - Bus/PerFi",
-        "start": "11:30 AM",
-        "end": "12:30 PM",
-        "color": "#FF0000",
-        "title": "Why A Budget is Important",
-        "lesson": [
-          "1. Students will watch three short videos and answer questions about budgeting."
-        ],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "Lunch",
-        "start": "12:30 PM",
-        "end": "1:15 PM",
-        "color": "#D7EECD",
-        "title": "",
-        "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "6th Hour - Religion III",
-        "start": "1:15 PM",
-        "end": "2:15 PM",
-        "color": "#999999",
-        "title": "Meeting 2",
-        "lesson": [
-          "SMA on Psalm 139.13-14",
-          "The learner will review Book 3, chapters 3-4 of Mere Christianity",
-          "The learner will read Book 3, chapters 5-6 of Mere Christianity and prepare for Harkness",
-          "Harkness Points:",
-          "Chastity v. Modesty",
-          "Contraceptives & Sexual Indulgence",
-          "Restraint & Happiness",
-          "Christian Marriage",
-          "The Nature of Love"
-        ],
-        "homework": [
-          "None"
-        ],
-        "assess": []
-      },
-      {
-        "name": "7th Hour Ap Art",
-        "start": "2:15 PM",
-        "end": "3:15 PM",
-        "color": "#F36666",
-        "title": "#1 Project: Faceless Self Portrait prompt",
-        "lesson": [
-          "begin studio work on #1"
-        ],
-        "homework": [],
-        "assess": []
-      }
-    ]
-  },
-  {
-    "date": "09/30/2026",
+    "date": "10/07/2026",
     "dow": "Wednesday",
     "classes": [
       {
-        "name": "3rd Hour - Eng III",
-        "start": "9:00 AM",
-        "end": "10:00 AM",
-        "color": "#A4C2F4",
-        "title": "The Crucible Act 4 ",
+        "start": "",
+        "end": "",
+        "color": "#888",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "1st Hour. Alg 2 AP",
+        "start": "8:00 AM",
+        "end": "8:45 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 2 Multiplying Polynomials",
         "lesson": [
-          "Read Act 4 of The Crucible",
-          "Review Grammar Work"
+          "Unit 5 Multiplying Polynomials"
         ],
         "homework": [
-          "Study for Grammar Test on Meeting 4"
+          "MML 5.2"
         ],
         "assess": []
       },
       {
-        "name": "Chapel",
-        "start": "10:00 AM",
-        "end": "10:30 AM",
-        "color": "#F9CB9C",
-        "title": "",
-        "lesson": [],
-        "homework": [],
+        "name": "3rd Hour - Eng III",
+        "start": "9:30 AM",
+        "end": "10:15 AM",
+        "color": "#A4C2F4",
+        "title": "John Proctor Eulogy",
+        "lesson": [
+          "Students will work on their eulogy for John Proctor."
+        ],
+        "homework": [
+          "Complete John Proctor Eulogy. It needs to be typed and turned in by the begining of class tomorrow!"
+        ],
         "assess": []
       },
       {
@@ -252,24 +232,34 @@
         "color": "#990000",
         "title": "Meeting 2",
         "lesson": [
-          "Articles of Confederation and Constitution comparison chart",
-          "Constitution Scavenger Hunt",
-          "Constitution Handbill"
+          "Work on Unit 3 Project"
         ],
         "homework": [
-          "Creating the New Nation note packet (due Meeting 4)"
+          "Be ready to assemble project next class."
         ],
         "assess": []
       },
       {
-        "name": "6th Hour - Religion III",
+        "name": "5th Hour - Bus/PerFi",
         "start": "11:30 AM",
-        "end": "12:30 PM",
-        "color": "#999999",
-        "title": "Meeting 3",
+        "end": "12:15 PM",
+        "color": "#FF0000",
+        "title": "Budgeting - Housing",
         "lesson": [
-          "Journal Reflection: What do you think is the difference between love and lust?",
-          "Harkness: Mere Christianity, Book 3, Chapter 5"
+          "1. Students will continue the budget project with a focus on housing."
+        ],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "6th Hour - Religion III",
+        "start": "1:00 PM",
+        "end": "1:45 PM",
+        "color": "#999999",
+        "title": "Meeting 2",
+        "lesson": [
+          "Journal: According to Lewis, how do we begin to love someone that we dislike or even hate?",
+          "Harkness: Mere Christianity, Book 3, Chapters 8-9"
         ],
         "homework": [
           "None"
@@ -277,19 +267,9 @@
         "assess": []
       },
       {
-        "name": "Lunch",
-        "start": "12:30 PM",
-        "end": "1:15 PM",
-        "color": "#D7EECD",
-        "title": "",
-        "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
         "name": "7th Hour Ap Art",
-        "start": "1:15 PM",
-        "end": "2:15 PM",
+        "start": "1:45 PM",
+        "end": "2:30 PM",
         "color": "#F36666",
         "title": "#1 Project: Faceless Self Portrait prompt",
         "lesson": [
@@ -300,41 +280,57 @@
       },
       {
         "name": "8th Hr - Chemistry",
-        "start": "2:15 PM",
+        "start": "2:30 PM",
         "end": "3:15 PM",
         "color": "#FF8400",
         "title": "",
         "lesson": [
-          "-Average Atomic Mass and Percent Abundance"
+          "Review of Atomic Structure"
         ],
         "homework": [
-          "None"
+          "Finish Review WS"
         ],
         "assess": []
       }
     ]
   },
   {
-    "date": "10/01/2026",
+    "date": "10/08/2026",
     "dow": "Thursday",
     "classes": [
       {
-        "name": "3rd Hour - Eng III",
+        "start": "",
+        "end": "",
+        "color": "#888",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "1st Hour. Alg 2 AP",
         "start": "8:00 AM",
-        "end": "9:00 AM",
-        "color": "#A4C2F4",
-        "title": "Grammar Test ",
+        "end": "8:45 AM",
+        "color": "#CDB8FA",
+        "title": "Meeting 3 Unit 5 Polynomials",
         "lesson": [
-          "Grammar Test",
-          "Pass Study Guide for The Crucible",
-          "Begin Eulogy if there is time."
+          "Factoring GCF and Grouping"
         ],
-        "homework": [
-          "Study for The Crucible - TEST MEETING 1 OF NEXT WEEK!"
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "3rd Hour - Eng III",
+        "start": "9:30 AM",
+        "end": "10:15 AM",
+        "color": "#A4C2F4",
+        "title": "John Proctor's Funeral",
+        "lesson": [
+          "Students will celebrate the life of John Proctor and explore the ways his character developed throughout the novel in a presentation of their eulogies.",
+          "If time permits, the students will watch the remained of The Crucible on film."
         ],
-        "assess": [
-          "Grammar Test"
-        ]
+        "homework": [],
+        "assess": []
       },
       {
         "name": "4th Hour U.S. History",
@@ -343,40 +339,42 @@
         "color": "#990000",
         "title": "Meeting 3",
         "lesson": [
-          "Washington and Adams lecture and report card activity",
-          "Washington's Farewell Address analysis"
+          "Finish Unit 3 Project!!!",
+          "This should be the assembly day, NOT completing any more research!"
         ],
         "homework": [
-          "Creating the New Nation note packet (due Meeting 4)"
+          "Have an amazing, relaxing, blissful, fun, blessed Fall Break"
         ],
         "assess": []
       },
       {
-        "name": "Advisory",
-        "start": "10:00 AM",
-        "end": "10:30 AM",
-        "color": "#F9CB9C",
+        "name": "5th Hour - Bus/PerFi",
+        "start": "11:30 AM",
+        "end": "12:15 PM",
+        "color": "#FF0000",
         "title": "",
         "lesson": [],
         "homework": [],
         "assess": []
       },
       {
-        "name": "1st Hour. Alg 2 AP",
-        "start": "10:30 AM",
-        "end": "11:30 AM",
-        "color": "#CDB8FA",
-        "title": "Meeting 3  Test Inequalities ",
-        "lesson": [],
-        "homework": [],
-        "assess": [
-          "Test Absolute value equations inequalities compound inequalities"
-        ]
+        "name": "6th Hour - Religion III",
+        "start": "1:00 PM",
+        "end": "1:45 PM",
+        "color": "#999999",
+        "title": "Meeting 3",
+        "lesson": [
+          "Finalizing the 1st Quarter & Mere Christianity"
+        ],
+        "homework": [
+          "Have a wonderful Fall Break!"
+        ],
+        "assess": []
       },
       {
         "name": "7th Hour Ap Art",
-        "start": "11:30 AM",
-        "end": "12:30 PM",
+        "start": "1:45 PM",
+        "end": "2:30 PM",
         "color": "#F36666",
         "title": "#1 Project: Faceless Self Portrait prompt",
         "lesson": [
@@ -386,45 +384,23 @@
         "assess": []
       },
       {
-        "name": "Lunch",
-        "start": "12:30 PM",
-        "end": "1:15 PM",
-        "color": "#D7EECD",
-        "title": "",
-        "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
         "name": "8th Hr - Chemistry",
-        "start": "1:15 PM",
-        "end": "2:15 PM",
+        "start": "2:30 PM",
+        "end": "3:15 PM",
         "color": "#FF8400",
         "title": "",
         "lesson": [
-          "More practice with Percent Abundance"
+          "Review of Isotopes and Avg. Atomic Mass"
         ],
         "homework": [
-          "Finish WS"
+          "None. Enjoy Fall Break!"
         ],
-        "assess": []
-      },
-      {
-        "name": "5th Hour - Bus/PerFi",
-        "start": "2:15 PM",
-        "end": "3:15 PM",
-        "color": "#FF0000",
-        "title": "Budgeting Project",
-        "lesson": [
-          "1. Students will be introduced to budgeting project."
-        ],
-        "homework": [],
         "assess": []
       }
     ]
   },
   {
-    "date": "10/02/2026",
+    "date": "10/09/2026",
     "dow": "Friday",
     "classes": [
       {
@@ -432,74 +408,8 @@
         "start": "8:00 AM",
         "end": "9:00 AM",
         "color": "#990000",
-        "title": "Meeting 4",
-        "lesson": [
-          "Creating the New Nation note packet due",
-          "Review Washington and Adams administrations",
-          "Explain and begin Unit 3 Project"
-        ],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "1st Hour. Alg 2 AP",
-        "start": "9:00 AM",
-        "end": "10:00 AM",
-        "color": "#CDB8FA",
-        "title": "Meeting 4 Polynomials. ",
-        "lesson": [
-          "Define polys: degree,terms",
-          "Define and determine end behavior",
-          "Evaluate polys",
-          "Add, subtract,mult polys",
-          "Factor: gcf and grouping"
-        ],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "Break",
-        "start": "10:00 AM",
-        "end": "10:30 AM",
-        "color": "#F9CB9C",
-        "title": "",
+        "title": "NO CLASS: FALL BREAK",
         "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "8th Hr - Chemistry",
-        "start": "11:30 AM",
-        "end": "12:30 PM",
-        "color": "#FF8400",
-        "title": "",
-        "lesson": [
-          "Mystery Atom Activity"
-        ],
-        "homework": [
-          "None!"
-        ],
-        "assess": []
-      },
-      {
-        "name": "Lunch",
-        "start": "12:30 PM",
-        "end": "1:15 PM",
-        "color": "#D7EECD",
-        "title": "",
-        "lesson": [],
-        "homework": [],
-        "assess": []
-      },
-      {
-        "name": "5th Hour - Bus/PerFi",
-        "start": "1:15 PM",
-        "end": "2:15 PM",
-        "color": "#FF0000",
-        "title": "Budgeting Project",
-        "lesson": [
-          "1. Students will continue to work on budgeting project."
-        ],
         "homework": [],
         "assess": []
       },
@@ -508,14 +418,21 @@
         "start": "2:15 PM",
         "end": "3:15 PM",
         "color": "#999999",
-        "title": "Meeting 4",
+        "title": "",
+        "lesson": [],
+        "homework": [],
+        "assess": []
+      },
+      {
+        "name": "8th Hr - Chemistry",
+        "start": "2:30 PM",
+        "end": "3:15 PM",
+        "color": "#FF8400",
+        "title": "",
         "lesson": [
-          "Create-A-Spouse Assignment: Students will reflect upon their ideal spouse",
-          "Harkness: Mere Christianity, Book 3, Chapter 6"
+          "Enjoy Fall Break!"
         ],
-        "homework": [
-          "None"
-        ],
+        "homework": [],
         "assess": []
       }
     ]
