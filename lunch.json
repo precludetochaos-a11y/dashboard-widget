@@ -1,10 +1,10 @@
 [
   {
-    "id": "508170118",
+    "id": "508169869",
     "menuId": "138482",
-    "recipeId": "212868",
+    "recipeId": "216520",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
     "week": "9",
     "meal": "Lunch",
     "stations": [
@@ -18,10 +18,10 @@
     "dailyCategory": "NONE",
     "displayStation": "Free Style™",
     "card": "0",
-    "name": "Grilled Ranch Chicken",
+    "name": "Seasoned Ground Beef",
     "desc": "",
     "price": 0,
-    "dot": "Yellow",
+    "dot": "Red",
     "allergens": {
       "allergenCodes": [],
       "allergenNames": [],
@@ -31,16 +31,56 @@
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
+      "performanceSpotlight": ""
     },
     "hasDetails": true
   },
   {
-    "id": "508170121",
+    "id": "508169887",
     "menuId": "138482",
-    "recipeId": "111542",
+    "recipeId": "205183",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "15",
+        "name": "Free Style™",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Free Style™",
+    "card": "1",
+    "name": "Pasta with Marinara (GF)",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [
+        "V+"
+      ],
+      "lifestyleNames": [
+        "Vegan"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Starch"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "512854998",
+    "menuId": "138482",
+    "recipeId": "76002",
+    "recipeType": "Recipe",
+    "day": "3",
     "week": "9",
     "meal": "Lunch",
     "stations": [
@@ -54,7 +94,7 @@
     "dailyCategory": "NONE",
     "displayStation": "The Main Ingredient®",
     "card": "0",
-    "name": "Chicken Fricassee",
+    "name": "Beef Lasagna",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
@@ -62,39 +102,33 @@
       "allergenCodes": [
         "W",
         "G",
-        "F"
+        "Mi"
       ],
       "allergenNames": [
         "Wheat",
         "Gluten",
-        "Fish"
+        "Milk"
       ],
       "lmAllergenCodes": [
-        "So",
-        "Se",
-        "Mu",
-        "Su"
+        "E"
       ],
       "lmAllergenNames": [
-        "Soy",
-        "Sesame",
-        "Mustard",
-        "Sulfites"
+        "Egg"
       ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
+      "performanceSpotlight": ""
     },
     "hasDetails": true
   },
   {
-    "id": "508170133",
+    "id": "513199902",
     "menuId": "138482",
-    "recipeId": "25732",
+    "recipeId": "18092",
     "recipeType": "Recipe",
-    "day": "2",
+    "day": "3",
     "week": "9",
     "meal": "Lunch",
     "stations": [
@@ -107,11 +141,67 @@
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
     "displayStation": "The Main Ingredient®",
-    "card": "4",
-    "name": "Spinach and Artichoke-Stuffed Portobello",
+    "card": "3",
+    "name": "Baked Eggplant Parmesan",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [
+        "W",
+        "G",
+        "Mi"
+      ],
+      "allergenNames": [
+        "Wheat",
+        "Gluten",
+        "Milk"
+      ],
+      "lmAllergenCodes": [
+        "E",
+        "So",
+        "Mu"
+      ],
+      "lmAllergenNames": [
+        "Egg",
+        "Soy",
+        "Mustard"
+      ],
+      "lifestyleCodes": [
+        "V"
+      ],
+      "lifestyleNames": [
+        "Vegetarian"
+      ],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "513218525",
+    "menuId": "138482",
+    "recipeId": "224267",
+    "recipeType": "Recipe",
+    "day": "3",
+    "week": "9",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "5",
+        "name": "Crossroads",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation5.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Crossroads",
+    "card": "0",
+    "name": "Cajun Cheeseburgers",
+    "desc": "",
+    "price": 0,
+    "dot": "Red",
     "allergens": {
       "allergenCodes": [
         "W",
@@ -132,66 +222,6 @@
         "Egg",
         "Soy",
         "Sesame"
-      ],
-      "lifestyleCodes": [
-        "V"
-      ],
-      "lifestyleNames": [
-        "Vegetarian"
-      ],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Protein"
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "513051698",
-    "menuId": "138482",
-    "recipeId": "55722",
-    "recipeType": "Recipe",
-    "day": "2",
-    "week": "9",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "5",
-        "name": "Crossroads",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation5.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Crossroads",
-    "card": "0",
-    "name": "Bacon-Cheddar Chicken Sandwich",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G",
-        "Mi"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten",
-        "Milk"
-      ],
-      "lmAllergenCodes": [
-        "E",
-        "So",
-        "Se",
-        "Mu",
-        "Oi"
-      ],
-      "lmAllergenNames": [
-        "Egg",
-        "Soy",
-        "Sesame",
-        "Mustard",
-        "Oil"
       ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
