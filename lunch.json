@@ -1,171 +1,44 @@
 [
   {
-    "id": "508169869",
+    "id": "513676692",
     "menuId": "138482",
-    "recipeId": "216520",
+    "recipeId": "121642",
     "recipeType": "Recipe",
     "day": "3",
-    "week": "9",
+    "week": "10",
     "meal": "Lunch",
     "stations": [
       {
-        "id": "15",
-        "name": "Free Style™",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      },
+      {
+        "id": "4",
+        "name": "Seasonings",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation4.png?20250917"
       }
     ],
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
-    "displayStation": "Free Style™",
-    "card": "0",
-    "name": "Seasoned Ground Beef",
-    "desc": "",
-    "price": 0,
-    "dot": "Red",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [],
-      "lmAllergenNames": [],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508169887",
-    "menuId": "138482",
-    "recipeId": "205183",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "9",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "15",
-        "name": "Free Style™",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Free Style™",
+    "displayStation": "The Main Ingredient®, Seasonings",
     "card": "1",
-    "name": "Pasta with Marinara (GF)",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [],
-      "lmAllergenNames": [],
-      "lifestyleCodes": [
-        "V+"
-      ],
-      "lifestyleNames": [
-        "Vegan"
-      ],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": "Starch"
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "512854998",
-    "menuId": "138482",
-    "recipeId": "76002",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "9",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®",
-    "card": "0",
-    "name": "Beef Lasagna",
+    "name": "Vegetarian Nachos Grande",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
-        "W",
-        "G",
         "Mi"
       ],
       "allergenNames": [
-        "Wheat",
-        "Gluten",
         "Milk"
       ],
       "lmAllergenCodes": [
-        "E"
+        "So"
       ],
       "lmAllergenNames": [
-        "Egg"
-      ],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "513199902",
-    "menuId": "138482",
-    "recipeId": "18092",
-    "recipeType": "Recipe",
-    "day": "3",
-    "week": "9",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "3",
-        "name": "The Main Ingredient®",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "The Main Ingredient®",
-    "card": "3",
-    "name": "Baked Eggplant Parmesan",
-    "desc": "",
-    "price": 0,
-    "dot": "Yellow",
-    "allergens": {
-      "allergenCodes": [
-        "W",
-        "G",
-        "Mi"
-      ],
-      "allergenNames": [
-        "Wheat",
-        "Gluten",
-        "Milk"
-      ],
-      "lmAllergenCodes": [
-        "E",
-        "So",
-        "Mu"
-      ],
-      "lmAllergenNames": [
-        "Egg",
-        "Soy",
-        "Mustard"
+        "Soy"
       ],
       "lifestyleCodes": [
         "V"
@@ -180,12 +53,48 @@
     "hasDetails": true
   },
   {
-    "id": "513218525",
+    "id": "513676706",
     "menuId": "138482",
-    "recipeId": "224267",
+    "recipeId": "212012",
     "recipeType": "Recipe",
     "day": "3",
-    "week": "9",
+    "week": "10",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "15",
+        "name": "Free Style™",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "Free Style™",
+    "card": "0",
+    "name": "Hamburger Patty",
+    "desc": "",
+    "price": 0,
+    "dot": "Red",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": ""
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "508171505",
+    "menuId": "138482",
+    "recipeId": "23452",
+    "recipeType": "Recipe",
+    "day": "3",
+    "week": "10",
     "meal": "Lunch",
     "stations": [
       {
@@ -198,7 +107,7 @@
     "dailyCategory": "NONE",
     "displayStation": "Crossroads",
     "card": "0",
-    "name": "Cajun Cheeseburgers",
+    "name": "Rodeo Burgers",
     "desc": "",
     "price": 0,
     "dot": "Red",
@@ -215,13 +124,19 @@
       ],
       "lmAllergenCodes": [
         "E",
+        "F",
         "So",
-        "Se"
+        "Se",
+        "Mu",
+        "Oi"
       ],
       "lmAllergenNames": [
         "Egg",
+        "Fish",
         "Soy",
-        "Sesame"
+        "Sesame",
+        "Mustard",
+        "Oil"
       ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
