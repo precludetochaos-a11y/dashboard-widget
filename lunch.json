@@ -1,10 +1,56 @@
 [
   {
-    "id": "513676692",
+    "id": "514132118",
     "menuId": "138482",
-    "recipeId": "121642",
+    "recipeId": "24342",
     "recipeType": "Recipe",
-    "day": "3",
+    "day": "4",
+    "week": "10",
+    "meal": "Lunch",
+    "stations": [
+      {
+        "id": "3",
+        "name": "The Main Ingredient®",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation3.png?20250917"
+      },
+      {
+        "id": "4",
+        "name": "Seasonings",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation4.png?20250917"
+      },
+      {
+        "id": "15",
+        "name": "Free Style™",
+        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
+      }
+    ],
+    "displayCategory": "Entrees",
+    "dailyCategory": "NONE",
+    "displayStation": "The Main Ingredient®, Seasonings, Free Style™",
+    "card": "1",
+    "name": "Grilled Greek Chicken Breast",
+    "desc": "",
+    "price": 0,
+    "dot": "Yellow",
+    "allergens": {
+      "allergenCodes": [],
+      "allergenNames": [],
+      "lmAllergenCodes": [],
+      "lmAllergenNames": [],
+      "lifestyleCodes": [],
+      "lifestyleNames": [],
+      "lmLifestyleCodes": [],
+      "lmLifestyleNames": [],
+      "performanceSpotlight": "Protein"
+    },
+    "hasDetails": true
+  },
+  {
+    "id": "514132127",
+    "menuId": "138482",
+    "recipeId": "34432",
+    "recipeType": "Recipe",
+    "day": "4",
     "week": "10",
     "meal": "Lunch",
     "stations": [
@@ -22,78 +68,44 @@
     "displayCategory": "Entrees",
     "dailyCategory": "NONE",
     "displayStation": "The Main Ingredient®, Seasonings",
-    "card": "1",
-    "name": "Vegetarian Nachos Grande",
+    "card": "4",
+    "name": "Balsamic-Grilled Vegetable Couscous",
     "desc": "",
     "price": 0,
     "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
-        "Mi"
+        "W",
+        "G"
       ],
       "allergenNames": [
-        "Milk"
+        "Wheat",
+        "Gluten"
       ],
       "lmAllergenCodes": [
-        "So"
+        "Su"
       ],
       "lmAllergenNames": [
-        "Soy"
+        "Sulfites"
       ],
       "lifestyleCodes": [
-        "V"
+        "V+"
       ],
       "lifestyleNames": [
-        "Vegetarian"
+        "Vegan"
       ],
       "lmLifestyleCodes": [],
       "lmLifestyleNames": [],
-      "performanceSpotlight": ""
+      "performanceSpotlight": "Starch"
     },
     "hasDetails": true
   },
   {
-    "id": "513676706",
+    "id": "513685929",
     "menuId": "138482",
-    "recipeId": "212012",
+    "recipeId": "97742",
     "recipeType": "Recipe",
-    "day": "3",
-    "week": "10",
-    "meal": "Lunch",
-    "stations": [
-      {
-        "id": "15",
-        "name": "Free Style™",
-        "image": "https://www.sagedining.com/intranet/images/structure/imgstation15.png?20250917"
-      }
-    ],
-    "displayCategory": "Entrees",
-    "dailyCategory": "NONE",
-    "displayStation": "Free Style™",
-    "card": "0",
-    "name": "Hamburger Patty",
-    "desc": "",
-    "price": 0,
-    "dot": "Red",
-    "allergens": {
-      "allergenCodes": [],
-      "allergenNames": [],
-      "lmAllergenCodes": [],
-      "lmAllergenNames": [],
-      "lifestyleCodes": [],
-      "lifestyleNames": [],
-      "lmLifestyleCodes": [],
-      "lmLifestyleNames": [],
-      "performanceSpotlight": ""
-    },
-    "hasDetails": true
-  },
-  {
-    "id": "508171505",
-    "menuId": "138482",
-    "recipeId": "23452",
-    "recipeType": "Recipe",
-    "day": "3",
+    "day": "4",
     "week": "10",
     "meal": "Lunch",
     "stations": [
@@ -107,36 +119,36 @@
     "dailyCategory": "NONE",
     "displayStation": "Crossroads",
     "card": "0",
-    "name": "Rodeo Burgers",
+    "name": "Meatball Sub",
     "desc": "",
     "price": 0,
-    "dot": "Red",
+    "dot": "Yellow",
     "allergens": {
       "allergenCodes": [
         "W",
-        "G",
-        "Mi"
+        "G"
       ],
       "allergenNames": [
         "Wheat",
-        "Gluten",
-        "Milk"
+        "Gluten"
       ],
       "lmAllergenCodes": [
         "E",
         "F",
+        "Mi",
         "So",
         "Se",
         "Mu",
-        "Oi"
+        "Su"
       ],
       "lmAllergenNames": [
         "Egg",
         "Fish",
+        "Milk",
         "Soy",
         "Sesame",
         "Mustard",
-        "Oil"
+        "Sulfites"
       ],
       "lifestyleCodes": [],
       "lifestyleNames": [],
